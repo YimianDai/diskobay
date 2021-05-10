@@ -1,0 +1,36 @@
+<annotation>
+	<folder>image</folder>
+	<filename>T22WDB_20170801T153911_TCI_x8y7</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Iceberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>294</xmin>
+			<xmax>311</xmax>
+			<ymin>92</ymin>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Iceberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>499</xmin>
+			<xmax>504</xmax>
+			<ymin>440</ymin>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

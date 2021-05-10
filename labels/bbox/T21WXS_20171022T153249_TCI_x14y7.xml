@@ -1,0 +1,36 @@
+<annotation>
+	<folder>image</folder>
+	<filename>T21WXS_20171022T153249_TCI_x14y7</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Iceberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>444</xmin>
+			<xmax>448</xmax>
+			<ymin>32</ymin>
+			<ymax>37</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Iceberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>67</xmax>
+			<ymin>41</ymin>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>

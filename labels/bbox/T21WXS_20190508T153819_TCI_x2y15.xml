@@ -1,0 +1,36 @@
+<annotation>
+	<folder>image</folder>
+	<filename>T21WXS_20190508T153819_TCI_x2y15</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Iceberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>351</xmin>
+			<xmax>354</xmax>
+			<ymin>145</ymin>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Iceberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>99</xmin>
+			<xmax>104</xmax>
+			<ymin>442</ymin>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

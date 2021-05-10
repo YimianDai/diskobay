@@ -1,0 +1,23 @@
+<annotation>
+	<folder>image</folder>
+	<filename>T22WDB_20181020T154249_TCI_x6y14</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Iceberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>398</xmin>
+			<xmax>416</xmax>
+			<ymin>273</ymin>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
